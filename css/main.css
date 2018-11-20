@@ -39,9 +39,13 @@ img {
 .robot-brain {
   width: 46px;
   position: absolute;
+  left: 8.5rem;
+  top: 40px;
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
+  position: absolute;
+  top: 0;
 }
