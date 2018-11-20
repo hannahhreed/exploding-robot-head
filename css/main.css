@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-
   font: normal 100%/1.5 sans-serif;
 }
 
@@ -13,8 +12,15 @@ body {
   min-width: 320px;
 }
 
+img {
+  display: block;
+}
+
 .banner {
   background-color: #2b3851;
+  position: relative;
+  margin: 0;
+  padding-top: 2rem;
 }
 
 .robot {
