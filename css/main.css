@@ -33,11 +33,12 @@ img {
 
 .robot-body {
   width: 320px;
-
+  padding-top: 2rem;
 }
 
 .robot-brain {
   width: 46px;
+  position: absolute;
 }
 
 .robot-head-right,
