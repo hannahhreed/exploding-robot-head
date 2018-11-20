@@ -25,10 +25,15 @@ img {
 
 .robot {
   width: 320px;
+  position: relative;
+  left: 50%;
+  transform: translatex(-50%);
+  margin-bottom: 0;
 }
 
 .robot-body {
   width: 320px;
+
 }
 
 .robot-brain {
